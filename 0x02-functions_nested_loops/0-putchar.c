@@ -7,7 +7,7 @@
 int main(void)
 {
 _putchar('H');
-_putchar('y');
+_putchar('o');
 _putchar('l');
 _putchar('b');
 _putchar('e');
