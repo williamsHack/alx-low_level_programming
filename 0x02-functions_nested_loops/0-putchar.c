@@ -5,7 +5,6 @@
  *
  * Return: return the status code
  */
-int _putchar(char c)
 int main(void)
 {
 _putchar('H');
