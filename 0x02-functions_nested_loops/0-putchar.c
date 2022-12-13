@@ -2,6 +2,7 @@
 
 /**
  *main - prints the  message
+ *
  * Return: return the status code
  */
 int main(void)
