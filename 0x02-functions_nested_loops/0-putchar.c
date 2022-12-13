@@ -8,6 +8,13 @@
 
 int main(void)
 {
-print_pucharmsg();
+ char *sh = "_putchar";
+
+while (*sh)
+{
+_putchar(*sh);
+sh++;
+}
+_putchar('\n');
 return (0);
 }
