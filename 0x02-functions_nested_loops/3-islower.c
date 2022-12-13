@@ -1,5 +1,4 @@
-#include "main.h"
-#include <ctype.h>
+#include "main.h."
 
 /**
  *_islower - tells if a data is lower or not
