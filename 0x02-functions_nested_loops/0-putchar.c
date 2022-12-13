@@ -5,6 +5,7 @@
  *
  * Return: return the status code
  */
+int _putchar(char c)
 int main(void)
 {
 _putchar('H');
@@ -16,7 +17,6 @@ _putchar('r');
 _putchar('t');
 _putchar('o');
 _putchar('n');
-_putchar('c');
 _putchar('\n');
 return (0);
 }
