@@ -2,12 +2,10 @@
 #include "main.h"
 
 /**
- * print_alphabet - a function that prints the alphabet, in lowercase
- *
- * Return: Always 0 (Succes)
+ *print_alphabet - print the alphabet
  */
 
-void print_alphabet(void)
+void print_alphabet(void);
 {
 char letter;
 for (letter = 'a'; letter <= 'z'; letter++)
