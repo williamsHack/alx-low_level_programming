@@ -1,18 +1,12 @@
-void print_message(void);
-void print_alphabet(void);
-#include <stdio.h>
+#include "main.h"
 
-void print_message(void)
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
-printf("_putchar\n");
-}
-
-void print_alphabet(void)
-{
-char letter;
-for(letter = 'a'; letter <= 'z'; letter++)
-{
-putchar(letter);
-}
-putchar('\n');
+	print_alphabet();
+	return (0);
 }
